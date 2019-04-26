@@ -1,4 +1,4 @@
-DROP TABLE IF EXISTS users;
+
 
 CREATE TABLE users
 (
@@ -17,7 +17,7 @@ VALUES
 
 
 
-DROP TABLE IF EXISTS treasures;
+
 CREATE TABLE treasures
 (
   id SERIAL PRIMARY KEY,
